@@ -1,11 +1,7 @@
-# playback-speed-chrome-extension
+# gh-copy-button-chrome-extension
 
-Youtubeなど動画の再生速度をコマンドで変更できるようにするChrome拡張機能です。
+GithubのPRページにタイトルとURLをコピーできるボタンを追加する拡張機能
 
 # Features
- - コマンドで簡単に再生速度を変更可能
 
-# Command
-- a : 0.1倍再生速度を遅くする
-- s : 1倍速にする
-- d : 0.1倍再生速度を早くする。
+URLはハイパーリンクでコピーできる
